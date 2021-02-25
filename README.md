@@ -6,7 +6,7 @@
 ---
 
 ### Stepper Mótor Tilraun 1 með línulegri hreyifinu.
-- Sett var saman hreyfilegann mótor í tíma, hermt var eftir módeli frá kennara og allir partar og verkfæri, gaf kennari.
+- Sett var saman hreyfilegann mótor í tíma, hermt var eftir módeli frá kennara og allir partar og verkfæroi voru gefin frá kennara.
 - [Myndband af virkni ***(https://youtu.be/KcXzey425uk)***]
 
 ---
