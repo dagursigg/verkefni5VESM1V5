@@ -1,6 +1,7 @@
 ## lokaverkefniVESM1V5
 
-- Hópur : ***Dagur Sigurðsson*** og ***Viktor Frans***. <br> VESM1, Tölvubraut, Tækniskólinn.
+- Hópur : ***Dagur Sigurðsson*** og ***Viktor Frans***.
+-  VESM1, Tölvubraut, Tækniskólinn.
 
 ---
 
@@ -14,6 +15,9 @@
 - Bætt var við öðrum mótori, og einu öðru hjóli, einnig þurfti að tengja annað arduino til þess að virkja mótorinn.
 - [Myndband af þeirri virkni ***(https://youtu.be/mvp8isAVO0I***)]
 
+---
+## Kóði
+- ### Hér er kóðinn sem notaður var í verkefnið, honum var breytt að vild í s.s. hraða, tengingu afli og fleira.
 ```C
 // Include the AccelStepper Library
 #include <AccelStepper.h>
