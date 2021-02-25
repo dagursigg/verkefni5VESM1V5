@@ -13,10 +13,11 @@
 
 ### Stepper Mótor Tilraun 2 með hreyfingu beggja hjóla og virkni beggja mótora.
 - Bætt var við öðrum mótori, og einu öðru hjóli, einnig þurfti að tengja annað arduino til þess að virkja mótorinn.
+ 
+- [Myndband af þeirri virkni ***(https://youtu.be/mvp8isAVO0I***)]
 
 - ![Mynd sem sýnidæmi](https://github.com/dagursigg/verkefni6/blob/main/ho.png%20(1).png)
 
-- [Myndband af þeirri virkni ***(https://youtu.be/mvp8isAVO0I***)]
 
 ---
 ## Kóði
