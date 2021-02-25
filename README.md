@@ -9,7 +9,7 @@
 - Sett var saman hreyfilegann mótor í tíma, hermt var eftir módeli frá kennara og allir partar og verkfæri, gaf kennari.
 - [Myndband af virkni ***(https://youtu.be/KcXzey425uk)***]
 
-- ![Mynd sem sýnidæmi](https://github.com/dagursigg/verkefni6/blob/main/IMG_0787.HEIC)
+- ![Mynd sem sýnidæmi](https://github.com/dagursigg/verkefni6/blob/main/ho.png.HEIC)
 
 ---
 
