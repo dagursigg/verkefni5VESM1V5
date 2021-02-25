@@ -6,4 +6,4 @@
 
 ### Stepper Mótor Tilraun 1 með línulegri hreyifinu.
 - blablablablabla
-- [Myndband af virkni ***(https://youtu.be/-VALLC4kPPs)***]
+- [Myndband af virkni ***(https://youtu.be/mvp8isAVO0I)***]
