@@ -16,6 +16,7 @@
  
 - [Myndband af þeirri virkni ***(https://youtu.be/mvp8isAVO0I***)]
 
+- Mynd af þeirri virkni.
 - ![Mynd sem sýnidæmi](https://github.com/dagursigg/verkefni6/blob/main/ho.png%20(1).png)
 
 
