@@ -7,14 +7,14 @@
 
 ### Stepper Mótor Tilraun 1 með línulegri hreyifinu.
 - Sett var saman hreyfilegann mótor í tíma, hermt var eftir módeli frá kennara og allir partar og verkfæri voru gefin frá kennara.
-- [Myndband af virkni](https://youtu.be/KcXzey425uk)
+- Til þess að sjá myndband af virkninni, ýttu [hér](https://youtu.be/KcXzey425uk)
 
 ---
 
 ### Stepper Mótor Tilraun 2 með hreyfingu beggja hjóla og virkni beggja mótora.
 - Bætt var við öðrum mótori, og einu öðru hjóli, einnig þurfti að tengja annað arduino til þess að virkja mótorinn.
  
-- [Myndband af þeirri virkni](https://youtu.be/mvp8isAVO0I)
+- Til þess að sjá myndband af þessari virkni ýttu [hér](https://youtu.be/mvp8isAVO0I)
 
 - Mynd af þeirri virkni.
 - ![Mynd sem sýnidæmi](https://github.com/dagursigg/verkefni6/blob/main/ho.png%20(1).png)
