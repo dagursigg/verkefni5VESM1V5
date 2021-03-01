@@ -60,5 +60,6 @@ void loop() {
 - Hugmynd okkar var mjög einfold, gera klemmu sem væri hægt að hreyfa á marga vegu.
 - Hér er myndband sem við fengum hugmyndina frá og ætluðum að gera sömu virkni og hún, [hér](https://www.youtube.com/watch?v=JFFHzGBWSE4)
 - Við vorum alltof lengi á þrepi eitt, að gera klemmuna sjálfa og það tók eiginlega allan tímann okkar.
-- hér eru myndir af klemmum okkar og smá til þess að sýna hvernig við festum þær.
+- Hér eru myndir af klemmum okkar og smá til þess að sýna hvernig við festum þær.
 - ![](https://github.com/dagursigg/verkefni6/blob/main/klemma%2Cfyrir.jpeg)
+- ![](https://github.com/dagursigg/verkefni6/blob/main/klemma%2Ceftir.jpeg)
