@@ -1,4 +1,4 @@
-## lokaverkefniVESM1V5
+# lokaverkefniVESM1V5
 
 - Hópur : ***Dagur Sigurðsson*** og ***Viktor Frans***.
 -  VESM1, Tölvubraut, Tækniskólinn.
@@ -55,4 +55,6 @@ void loop() {
 ---
 
 # Seinni partur verkefnis.
-## Mótor af eigin hugmynd
+### Mótor af eigin hugmynd
+---
+- Hugmynd okkar var mjög einfold, gera klemmu sem væri hægt að hreyfa á marga vegu.
