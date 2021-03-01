@@ -68,3 +68,8 @@ void loop() {
 - [Hér](https://youtu.be/qnDYzmQS4d4) er virkni af klemmunum og já, þetta tók allan tímann.
 - [Hér](https://youtu.be/XxAMAkoekEw) er verið að setja mótorinn upp í lok tímans til þess að reyna smá að klára.
 - [Hér](https://youtu.be/AjB4fP681VQ) svo smá í lokinn til þess að sýna hvað við vorum að reyna klára.
+
+---
+## Lokaorð
+- Við þökkum kærlega fyrir þennan áhugaverða og skemmtilega áfanga Gunnar, við lærðum meira en nóg af nýjum hlutum og hlökkum til að mæta í Verksmiðju 2,
+- Þínir uppáhalds nemendur, Dagur og Viktor.
