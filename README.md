@@ -52,3 +52,7 @@ void loop() {
 	myStepper.run();
 }
 ```
+---
+
+# Seinni partur verkefnis.
+## Mótor af eigin hugmynd
