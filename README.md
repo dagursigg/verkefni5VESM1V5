@@ -22,7 +22,7 @@
 
 ---
 ## Kóði
-- ### Hér er kóðinn sem notaður var í verkefnið, honum var breytt að vild í s.s. hraða, tengingu afli og fleira.
+- #### Hér er kóðinn sem notaður var í verkefnið, honum var breytt að vild í s.s. hraða, tengingu afli og fleira.
 ```C
 // Include the AccelStepper Library
 #include <AccelStepper.h>
