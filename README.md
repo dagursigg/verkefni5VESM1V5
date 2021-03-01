@@ -63,6 +63,7 @@ void loop() {
 - Hér eru myndir af klemmum okkar og smá til þess að sýna hvernig við festum þær.
 - ![](https://github.com/dagursigg/verkefni6/blob/main/klemma%2Cfyrir.jpeg)
 - ![](https://github.com/dagursigg/verkefni6/blob/main/klemma%2Ceftir.jpeg)
+---
 ## Myndskeið af virkni verkefnis og hugmyndir þess.
 - [Hér](https://youtu.be/qnDYzmQS4d4) er virkni af klemmunum og já, þetta tók allan tímann.
 - [Hér](https://youtu.be/XxAMAkoekEw) er verið að setja mótorinn upp í lok tímans til þess að reyna smá að klára.
